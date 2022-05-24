@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DoubleSymmetryTask</string>
+    <string name="no_music_message">There is no music :(</string>
+    <string name="discover">Discover</string>
+    <string name="search">Search</string>
+</resources>
